@@ -1,0 +1,8 @@
+pandas==2.2.2
+numpy==2.0.2
+scikit-learn==1.6.1
+scipy>=1.13
+xgboost==3.2.0
+matplotlib==3.10.0
+joblib>=1.4
+# RDKit descriptors are precomputed in Dataset_S1.csv. RDKit is optional unless regenerating descriptors from SMILES.

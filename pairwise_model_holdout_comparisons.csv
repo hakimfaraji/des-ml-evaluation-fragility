@@ -1,0 +1,301 @@
+doi,analyte,candidate_i_id,candidate_j_id,p_ij,predicted_preference
+10.1002/ansa.70039,Imidacloprid,Menthol || Thymol || 01:02,Choline chloride || Salicylic acid || 01:01,0.9948992492754056,1
+10.1002/ansa.70039,Imidacloprid,Menthol || Thymol || 01:02,Choline chloride || Urea || 02:01,0.001252822073335123,0
+10.1002/ansa.70039,Imidacloprid,Menthol || Thymol || 01:02,Choline chloride || Thymol || 02:01,0.9756973054255398,1
+10.1002/ansa.70039,Imidacloprid,Choline chloride || Salicylic acid || 01:01,Choline chloride || Urea || 02:01,6.431111439163645e-06,0
+10.1002/ansa.70039,Imidacloprid,Choline chloride || Salicylic acid || 01:01,Choline chloride || Thymol || 02:01,0.1706979848562587,0
+10.1002/ansa.70039,Imidacloprid,Choline chloride || Urea || 02:01,Choline chloride || Thymol || 02:01,0.9999687565067213,1
+10.1016/j.fluid.2017.04.002,Acetamiprid,DL-Menthol || Octanoic acid || 01:01,DL-Menthol || Dodecanoic acid || 02:01,0.3402886959214756,0
+10.1016/j.fluid.2017.04.002,Imidacloprid,DL-Menthol || Octanoic acid || 01:01,DL-Menthol || Decanoic acid || 01:01,0.6278814863818909,1
+10.1016/j.jfca.2017.12.007,Diazinon,Choline chloride || p-chlorophenol || 01:02,Choline chloride || p-chlorophenol || 01:02,0.5,1
+10.1016/j.jfca.2017.12.007,Diazinon,Choline chloride || p-chlorophenol || 01:02,Choline chloride || p-chlorophenol || 01:02,0.5,1
+10.1016/j.jfca.2017.12.007,Diazinon,Choline chloride || p-chlorophenol || 01:02,Choline chloride || p-chlorophenol || 01:02,0.5,1
+10.1016/j.seppur.2024.128637,Atrazine,Choline chloride || Methacrylic acid || 01:02,Choline chloride || Methacrylic acid || 01:01,0.02654986322076539,0
+10.1016/j.seppur.2024.128637,Atrazine,Choline chloride || Methacrylic acid || 01:02,Choline chloride || Methacrylic acid || 01:01.5,0.19271600011458045,0
+10.1016/j.seppur.2024.128637,Atrazine,Choline chloride || Methacrylic acid || 01:02,Choline chloride || Methacrylic acid || 01:03,0.8757094021224089,1
+10.1016/j.seppur.2024.128637,Atrazine,Choline chloride || Methacrylic acid || 01:01,Choline chloride || Methacrylic acid || 01:01.5,0.8974644630173172,1
+10.1016/j.seppur.2024.128637,Atrazine,Choline chloride || Methacrylic acid || 01:01,Choline chloride || Methacrylic acid || 01:03,0.9961438943920166,1
+10.1016/j.seppur.2024.128637,Atrazine,Choline chloride || Methacrylic acid || 01:01.5,Choline chloride || Methacrylic acid || 01:03,0.9672283206444561,1
+10.1016/j.talanta.2023.124831,Parathion,Choline chloride || Propylene glycol || 01:03,Choline chloride || Ethylene glycol || 01:03,0.11528028993851712,0
+10.1016/j.talanta.2023.124831,Parathion,Choline chloride || Propylene glycol || 01:03,Choline chloride || Butylene glycol || 01:03,0.7472930103692402,1
+10.1016/j.talanta.2023.124831,Parathion,Choline chloride || Propylene glycol || 01:03,Choline chloride || Propylene glycol || 01:01,0.03764426409969486,0
+10.1016/j.talanta.2023.124831,Parathion,Choline chloride || Propylene glycol || 01:03,Choline chloride || Propylene glycol || 01:02,0.22114257137323962,0
+10.1016/j.talanta.2023.124831,Parathion,Choline chloride || Propylene glycol || 01:03,Choline chloride || Propylene glycol || 01:04,0.7447596276307613,1
+10.1016/j.talanta.2023.124831,Parathion,Choline chloride || Propylene glycol || 01:03,Choline chloride || Propylene glycol || 01:05,0.887363348049427,1
+10.1016/j.talanta.2023.124831,Parathion,Choline chloride || Propylene glycol || 01:03,Choline chloride || Propylene glycol || 01:06,0.9533722770849525,1
+10.1016/j.talanta.2023.124831,Parathion,Choline chloride || Propylene glycol || 01:03,Choline chloride || Propylene glycol || 02:01,0.004316963202659933,0
+10.1016/j.talanta.2023.124831,Parathion,Choline chloride || Propylene glycol || 01:03,Tetrabutylammonium bromide || Undecanol || 01:01,0.9999997164162566,1
+10.1016/j.talanta.2023.124831,Parathion,Choline chloride || Propylene glycol || 01:03,Tetrabutylammonium bromide || Menthol || 01:01,0.999999996288089,1
+10.1016/j.talanta.2023.124831,Parathion,Choline chloride || Propylene glycol || 01:03,Tetrabutylammonium bromide || Terpineol || 01:01,0.9999999967509599,1
+10.1016/j.talanta.2023.124831,Parathion,Choline chloride || Propylene glycol || 01:03,Tetrabutylammonium bromide || Citronellol || 01:01,0.9999998339929426,1
+10.1016/j.talanta.2023.124831,Parathion,Choline chloride || Propylene glycol || 01:03,Tetrabutylammonium bromide || Geraniol || 01:01,0.9999998906114924,1
+10.1016/j.talanta.2023.124831,Parathion,Choline chloride || Propylene glycol || 01:03,Tetrabutylammonium bromide || Linalool || 01:01,0.9999998902085127,1
+10.1016/j.talanta.2023.124831,Parathion,Choline chloride || Propylene glycol || 01:03,Tetrabutylammonium bromide || Terpineol || 05:01,1.0,1
+10.1016/j.talanta.2023.124831,Parathion,Choline chloride || Propylene glycol || 01:03,Tetrabutylammonium bromide || Terpineol || 04:01,1.0,1
+10.1016/j.talanta.2023.124831,Parathion,Choline chloride || Propylene glycol || 01:03,Tetrabutylammonium bromide || Terpineol || 03:01,1.0,1
+10.1016/j.talanta.2023.124831,Parathion,Choline chloride || Propylene glycol || 01:03,Tetrabutylammonium bromide || Terpineol || 02:01,0.9999999999999427,1
+10.1016/j.talanta.2023.124831,Parathion,Choline chloride || Propylene glycol || 01:03,Tetrabutylammonium bromide || Terpineol || 01:02,0.9999996554112873,1
+10.1016/j.talanta.2023.124831,Parathion,Choline chloride || Propylene glycol || 01:03,Tetrabutylammonium bromide || Terpineol || 01:03,0.999999236988232,1
+10.1016/j.talanta.2023.124831,Parathion,Choline chloride || Ethylene glycol || 01:03,Choline chloride || Butylene glycol || 01:03,0.9577964564441508,1
+10.1016/j.talanta.2023.124831,Parathion,Choline chloride || Ethylene glycol || 01:03,Choline chloride || Propylene glycol || 01:01,0.23088883443552982,0
+10.1016/j.talanta.2023.124831,Parathion,Choline chloride || Ethylene glycol || 01:03,Choline chloride || Propylene glycol || 01:02,0.6854395445417694,1
+10.1016/j.talanta.2023.124831,Parathion,Choline chloride || Ethylene glycol || 01:03,Choline chloride || Propylene glycol || 01:04,0.9572526517874628,1
+10.1016/j.talanta.2023.124831,Parathion,Choline chloride || Ethylene glycol || 01:03,Choline chloride || Propylene glycol || 01:05,0.9837294115599966,1
+10.1016/j.talanta.2023.124831,Parathion,Choline chloride || Ethylene glycol || 01:03,Choline chloride || Propylene glycol || 01:06,0.9936675444451936,1
+10.1016/j.talanta.2023.124831,Parathion,Choline chloride || Ethylene glycol || 01:03,Choline chloride || Propylene glycol || 02:01,0.03220270008606976,0
+10.1016/j.talanta.2023.124831,Parathion,Choline chloride || Ethylene glycol || 01:03,Tetrabutylammonium bromide || Undecanol || 01:01,0.9999999630486087,1
+10.1016/j.talanta.2023.124831,Parathion,Choline chloride || Ethylene glycol || 01:03,Tetrabutylammonium bromide || Menthol || 01:01,0.9999999995163324,1
+10.1016/j.talanta.2023.124831,Parathion,Choline chloride || Ethylene glycol || 01:03,Tetrabutylammonium bromide || Terpineol || 01:01,0.9999999995766453,1
+10.1016/j.talanta.2023.124831,Parathion,Choline chloride || Ethylene glycol || 01:03,Tetrabutylammonium bromide || Citronellol || 01:01,0.9999999783690312,1
+10.1016/j.talanta.2023.124831,Parathion,Choline chloride || Ethylene glycol || 01:03,Tetrabutylammonium bromide || Geraniol || 01:01,0.9999999857465138,1
+10.1016/j.talanta.2023.124831,Parathion,Choline chloride || Ethylene glycol || 01:03,Tetrabutylammonium bromide || Linalool || 01:01,0.9999999856940052,1
+10.1016/j.talanta.2023.124831,Parathion,Choline chloride || Ethylene glycol || 01:03,Tetrabutylammonium bromide || Terpineol || 05:01,1.0,1
+10.1016/j.talanta.2023.124831,Parathion,Choline chloride || Ethylene glycol || 01:03,Tetrabutylammonium bromide || Terpineol || 04:01,1.0,1
+10.1016/j.talanta.2023.124831,Parathion,Choline chloride || Ethylene glycol || 01:03,Tetrabutylammonium bromide || Terpineol || 03:01,1.0,1
+10.1016/j.talanta.2023.124831,Parathion,Choline chloride || Ethylene glycol || 01:03,Tetrabutylammonium bromide || Terpineol || 02:01,0.9999999999999925,1
+10.1016/j.talanta.2023.124831,Parathion,Choline chloride || Ethylene glycol || 01:03,Tetrabutylammonium bromide || Terpineol || 01:02,0.9999999550995664,1
+10.1016/j.talanta.2023.124831,Parathion,Choline chloride || Ethylene glycol || 01:03,Tetrabutylammonium bromide || Terpineol || 01:03,0.9999999005783694,1
+10.1016/j.talanta.2023.124831,Parathion,Choline chloride || Butylene glycol || 01:03,Choline chloride || Propylene glycol || 01:01,0.013055165592829935,0
+10.1016/j.talanta.2023.124831,Parathion,Choline chloride || Butylene glycol || 01:03,Choline chloride || Propylene glycol || 01:02,0.08760402922523323,0
+10.1016/j.talanta.2023.124831,Parathion,Choline chloride || Butylene glycol || 01:03,Choline chloride || Propylene glycol || 01:04,0.4966573240604745,0
+10.1016/j.talanta.2023.124831,Parathion,Choline chloride || Butylene glycol || 01:03,Choline chloride || Propylene glycol || 01:05,0.7270805719370759,1
+10.1016/j.talanta.2023.124831,Parathion,Choline chloride || Butylene glycol || 01:03,Choline chloride || Propylene glycol || 01:06,0.8736455293084012,1
+10.1016/j.talanta.2023.124831,Parathion,Choline chloride || Butylene glycol || 01:03,Choline chloride || Propylene glycol || 02:01,0.0014640209467564067,0
+10.1016/j.talanta.2023.124831,Parathion,Choline chloride || Butylene glycol || 01:03,Tetrabutylammonium bromide || Undecanol || 01:01,0.9999991614001973,1
+10.1016/j.talanta.2023.124831,Parathion,Choline chloride || Butylene glycol || 01:03,Tetrabutylammonium bromide || Menthol || 01:01,0.9999999890233146,1
+10.1016/j.talanta.2023.124831,Parathion,Choline chloride || Butylene glycol || 01:03,Tetrabutylammonium bromide || Terpineol || 01:01,0.9999999903920943,1
+10.1016/j.talanta.2023.124831,Parathion,Choline chloride || Butylene glycol || 01:03,Tetrabutylammonium bromide || Citronellol || 01:01,0.9999995090920374,1
+10.1016/j.talanta.2023.124831,Parathion,Choline chloride || Butylene glycol || 01:03,Tetrabutylammonium bromide || Geraniol || 01:01,0.9999996765216119,1
+10.1016/j.talanta.2023.124831,Parathion,Choline chloride || Butylene glycol || 01:03,Tetrabutylammonium bromide || Linalool || 01:01,0.9999996753299397,1
+10.1016/j.talanta.2023.124831,Parathion,Choline chloride || Butylene glycol || 01:03,Tetrabutylammonium bromide || Terpineol || 05:01,1.0,1
+10.1016/j.talanta.2023.124831,Parathion,Choline chloride || Butylene glycol || 01:03,Tetrabutylammonium bromide || Terpineol || 04:01,1.0,1
+10.1016/j.talanta.2023.124831,Parathion,Choline chloride || Butylene glycol || 01:03,Tetrabutylammonium bromide || Terpineol || 03:01,1.0,1
+10.1016/j.talanta.2023.124831,Parathion,Choline chloride || Butylene glycol || 01:03,Tetrabutylammonium bromide || Terpineol || 02:01,0.9999999999998308,1
+10.1016/j.talanta.2023.124831,Parathion,Choline chloride || Butylene glycol || 01:03,Tetrabutylammonium bromide || Terpineol || 01:02,0.9999989809994446,1
+10.1016/j.talanta.2023.124831,Parathion,Choline chloride || Butylene glycol || 01:03,Tetrabutylammonium bromide || Terpineol || 01:03,0.9999977436615011,1
+10.1016/j.talanta.2023.124831,Parathion,Choline chloride || Propylene glycol || 01:01,Choline chloride || Propylene glycol || 01:02,0.8789136977695323,1
+10.1016/j.talanta.2023.124831,Parathion,Choline chloride || Propylene glycol || 01:01,Choline chloride || Propylene glycol || 01:04,0.9867714275060064,1
+10.1016/j.talanta.2023.124831,Parathion,Choline chloride || Propylene glycol || 01:01,Choline chloride || Propylene glycol || 01:05,0.9950592785187197,1
+10.1016/j.talanta.2023.124831,Parathion,Choline chloride || Propylene glycol || 01:01,Choline chloride || Propylene glycol || 01:06,0.9980905214167193,1
+10.1016/j.talanta.2023.124831,Parathion,Choline chloride || Propylene glycol || 01:01,Choline chloride || Propylene glycol || 02:01,0.09977983947112222,0
+10.1016/j.talanta.2023.124831,Parathion,Choline chloride || Propylene glycol || 01:01,Tetrabutylammonium bromide || Undecanol || 01:01,0.9999999889071122,1
+10.1016/j.talanta.2023.124831,Parathion,Choline chloride || Propylene glycol || 01:01,Tetrabutylammonium bromide || Menthol || 01:01,0.9999999998548019,1
+10.1016/j.talanta.2023.124831,Parathion,Choline chloride || Propylene glycol || 01:01,Tetrabutylammonium bromide || Terpineol || 01:01,0.9999999998729079,1
+10.1016/j.talanta.2023.124831,Parathion,Choline chloride || Propylene glycol || 01:01,Tetrabutylammonium bromide || Citronellol || 01:01,0.9999999935063362,1
+10.1016/j.talanta.2023.124831,Parathion,Choline chloride || Propylene glycol || 01:01,Tetrabutylammonium bromide || Geraniol || 01:01,0.9999999957210726,1
+10.1016/j.talanta.2023.124831,Parathion,Choline chloride || Propylene glycol || 01:01,Tetrabutylammonium bromide || Linalool || 01:01,0.9999999957053094,1
+10.1016/j.talanta.2023.124831,Parathion,Choline chloride || Propylene glycol || 01:01,Tetrabutylammonium bromide || Terpineol || 05:01,1.0,1
+10.1016/j.talanta.2023.124831,Parathion,Choline chloride || Propylene glycol || 01:01,Tetrabutylammonium bromide || Terpineol || 04:01,1.0,1
+10.1016/j.talanta.2023.124831,Parathion,Choline chloride || Propylene glycol || 01:01,Tetrabutylammonium bromide || Terpineol || 03:01,1.0,1
+10.1016/j.talanta.2023.124831,Parathion,Choline chloride || Propylene glycol || 01:01,Tetrabutylammonium bromide || Terpineol || 02:01,0.9999999999999978,1
+10.1016/j.talanta.2023.124831,Parathion,Choline chloride || Propylene glycol || 01:01,Tetrabutylammonium bromide || Terpineol || 01:02,0.9999999865207925,1
+10.1016/j.talanta.2023.124831,Parathion,Choline chloride || Propylene glycol || 01:01,Tetrabutylammonium bromide || Terpineol || 01:03,0.9999999701534095,1
+10.1016/j.talanta.2023.124831,Parathion,Choline chloride || Propylene glycol || 01:02,Choline chloride || Propylene glycol || 01:04,0.9113213306708112,1
+10.1016/j.talanta.2023.124831,Parathion,Choline chloride || Propylene glycol || 01:02,Choline chloride || Propylene glycol || 01:05,0.9652130912001091,1
+10.1016/j.talanta.2023.124831,Parathion,Choline chloride || Propylene glycol || 01:02,Choline chloride || Propylene glycol || 01:06,0.9863035917901191,1
+10.1016/j.talanta.2023.124831,Parathion,Choline chloride || Propylene glycol || 01:02,Choline chloride || Propylene glycol || 02:01,0.015040464159361286,0
+10.1016/j.talanta.2023.124831,Parathion,Choline chloride || Propylene glycol || 01:02,Tetrabutylammonium bromide || Undecanol || 01:01,0.9999999194814755,1
+10.1016/j.talanta.2023.124831,Parathion,Choline chloride || Propylene glycol || 01:02,Tetrabutylammonium bromide || Menthol || 01:01,0.9999999989460695,1
+10.1016/j.talanta.2023.124831,Parathion,Choline chloride || Propylene glycol || 01:02,Tetrabutylammonium bromide || Terpineol || 01:01,0.9999999990774935,1
+10.1016/j.talanta.2023.124831,Parathion,Choline chloride || Propylene glycol || 01:02,Tetrabutylammonium bromide || Citronellol || 01:01,0.9999999528652734,1
+10.1016/j.talanta.2023.124831,Parathion,Choline chloride || Propylene glycol || 01:02,Tetrabutylammonium bromide || Geraniol || 01:01,0.9999999689410964,1
+10.1016/j.talanta.2023.124831,Parathion,Choline chloride || Propylene glycol || 01:02,Tetrabutylammonium bromide || Linalool || 01:01,0.9999999688266775,1
+10.1016/j.talanta.2023.124831,Parathion,Choline chloride || Propylene glycol || 01:02,Tetrabutylammonium bromide || Terpineol || 05:01,1.0,1
+10.1016/j.talanta.2023.124831,Parathion,Choline chloride || Propylene glycol || 01:02,Tetrabutylammonium bromide || Terpineol || 04:01,1.0,1
+10.1016/j.talanta.2023.124831,Parathion,Choline chloride || Propylene glycol || 01:02,Tetrabutylammonium bromide || Terpineol || 03:01,1.0,1
+10.1016/j.talanta.2023.124831,Parathion,Choline chloride || Propylene glycol || 01:02,Tetrabutylammonium bromide || Terpineol || 02:01,0.9999999999999838,1
+10.1016/j.talanta.2023.124831,Parathion,Choline chloride || Propylene glycol || 01:02,Tetrabutylammonium bromide || Terpineol || 01:02,0.9999999021602028,1
+10.1016/j.talanta.2023.124831,Parathion,Choline chloride || Propylene glycol || 01:02,Tetrabutylammonium bromide || Terpineol || 01:03,0.9999997833564008,1
+10.1016/j.talanta.2023.124831,Parathion,Choline chloride || Propylene glycol || 01:04,Choline chloride || Propylene glycol || 01:05,0.729725748343884,1
+10.1016/j.talanta.2023.124831,Parathion,Choline chloride || Propylene glycol || 01:04,Choline chloride || Propylene glycol || 01:06,0.8751141709796135,1
+10.1016/j.talanta.2023.124831,Parathion,Choline chloride || Propylene glycol || 01:04,Choline chloride || Propylene glycol || 02:01,0.0014836984447465303,0
+10.1016/j.talanta.2023.124831,Parathion,Choline chloride || Propylene glycol || 01:04,Tetrabutylammonium bromide || Undecanol || 01:01,0.9999991725383949,1
+10.1016/j.talanta.2023.124831,Parathion,Choline chloride || Propylene glycol || 01:04,Tetrabutylammonium bromide || Menthol || 01:01,0.9999999891691059,1
+10.1016/j.talanta.2023.124831,Parathion,Choline chloride || Propylene glycol || 01:04,Tetrabutylammonium bromide || Terpineol || 01:01,0.9999999905197056,1
+10.1016/j.talanta.2023.124831,Parathion,Choline chloride || Propylene glycol || 01:04,Tetrabutylammonium bromide || Citronellol || 01:01,0.9999995156122293,1
+10.1016/j.talanta.2023.124831,Parathion,Choline chloride || Propylene glycol || 01:04,Tetrabutylammonium bromide || Geraniol || 01:01,0.9999996808180214,1
+10.1016/j.talanta.2023.124831,Parathion,Choline chloride || Propylene glycol || 01:04,Tetrabutylammonium bromide || Linalool || 01:01,0.9999996796421768,1
+10.1016/j.talanta.2023.124831,Parathion,Choline chloride || Propylene glycol || 01:04,Tetrabutylammonium bromide || Terpineol || 05:01,1.0,1
+10.1016/j.talanta.2023.124831,Parathion,Choline chloride || Propylene glycol || 01:04,Tetrabutylammonium bromide || Terpineol || 04:01,1.0,1
+10.1016/j.talanta.2023.124831,Parathion,Choline chloride || Propylene glycol || 01:04,Tetrabutylammonium bromide || Terpineol || 03:01,1.0,1
+10.1016/j.talanta.2023.124831,Parathion,Choline chloride || Propylene glycol || 01:04,Tetrabutylammonium bromide || Terpineol || 02:01,0.999999999999833,1
+10.1016/j.talanta.2023.124831,Parathion,Choline chloride || Propylene glycol || 01:04,Tetrabutylammonium bromide || Terpineol || 01:02,0.9999989945337042,1
+10.1016/j.talanta.2023.124831,Parathion,Choline chloride || Propylene glycol || 01:04,Tetrabutylammonium bromide || Terpineol || 01:03,0.9999977736299182,1
+10.1016/j.talanta.2023.124831,Parathion,Choline chloride || Propylene glycol || 01:05,Choline chloride || Propylene glycol || 01:06,0.7218632507165861,1
+10.1016/j.talanta.2023.124831,Parathion,Choline chloride || Propylene glycol || 01:05,Choline chloride || Propylene glycol || 02:01,0.0005500428689551733,0
+10.1016/j.talanta.2023.124831,Parathion,Choline chloride || Propylene glycol || 01:05,Tetrabutylammonium bromide || Undecanol || 01:01,0.9999977659019089,1
+10.1016/j.talanta.2023.124831,Parathion,Choline chloride || Propylene glycol || 01:05,Tetrabutylammonium bromide || Menthol || 01:01,0.999999970757177,1
+10.1016/j.talanta.2023.124831,Parathion,Choline chloride || Propylene glycol || 01:05,Tetrabutylammonium bromide || Terpineol || 01:01,0.9999999744037222,1
+10.1016/j.talanta.2023.124831,Parathion,Choline chloride || Propylene glycol || 01:05,Tetrabutylammonium bromide || Citronellol || 01:01,0.9999986921804973,1
+10.1016/j.talanta.2023.124831,Parathion,Choline chloride || Propylene glycol || 01:05,Tetrabutylammonium bromide || Geraniol || 01:01,0.999999138226522,1
+10.1016/j.talanta.2023.124831,Parathion,Choline chloride || Propylene glycol || 01:05,Tetrabutylammonium bromide || Linalool || 01:01,0.9999991350518093,1
+10.1016/j.talanta.2023.124831,Parathion,Choline chloride || Propylene glycol || 01:05,Tetrabutylammonium bromide || Terpineol || 05:01,1.0,1
+10.1016/j.talanta.2023.124831,Parathion,Choline chloride || Propylene glycol || 01:05,Tetrabutylammonium bromide || Terpineol || 04:01,1.0,1
+10.1016/j.talanta.2023.124831,Parathion,Choline chloride || Propylene glycol || 01:05,Tetrabutylammonium bromide || Terpineol || 03:01,1.0,1
+10.1016/j.talanta.2023.124831,Parathion,Choline chloride || Propylene glycol || 01:05,Tetrabutylammonium bromide || Terpineol || 02:01,0.9999999999995495,1
+10.1016/j.talanta.2023.124831,Parathion,Choline chloride || Propylene glycol || 01:05,Tetrabutylammonium bromide || Terpineol || 01:02,0.9999972853004437,1
+10.1016/j.talanta.2023.124831,Parathion,Choline chloride || Propylene glycol || 01:05,Tetrabutylammonium bromide || Terpineol || 01:03,0.999993988944876,1
+10.1016/j.talanta.2023.124831,Parathion,Choline chloride || Propylene glycol || 01:06,Choline chloride || Propylene glycol || 02:01,0.00021200536145469037,0
+10.1016/j.talanta.2023.124831,Parathion,Choline chloride || Propylene glycol || 01:06,Tetrabutylammonium bromide || Undecanol || 01:01,0.9999942017458436,1
+10.1016/j.talanta.2023.124831,Parathion,Choline chloride || Propylene glycol || 01:06,Tetrabutylammonium bromide || Menthol || 01:01,0.9999999241045334,1
+10.1016/j.talanta.2023.124831,Parathion,Choline chloride || Propylene glycol || 01:06,Tetrabutylammonium bromide || Terpineol || 01:01,0.9999999335686074,1
+10.1016/j.talanta.2023.124831,Parathion,Choline chloride || Propylene glycol || 01:06,Tetrabutylammonium bromide || Citronellol || 01:01,0.9999966057528527,1
+10.1016/j.talanta.2023.124831,Parathion,Choline chloride || Propylene glycol || 01:06,Tetrabutylammonium bromide || Geraniol || 01:01,0.9999977633960611,1
+10.1016/j.talanta.2023.124831,Parathion,Choline chloride || Propylene glycol || 01:06,Tetrabutylammonium bromide || Linalool || 01:01,0.9999977551565813,1
+10.1016/j.talanta.2023.124831,Parathion,Choline chloride || Propylene glycol || 01:06,Tetrabutylammonium bromide || Terpineol || 05:01,1.0,1
+10.1016/j.talanta.2023.124831,Parathion,Choline chloride || Propylene glycol || 01:06,Tetrabutylammonium bromide || Terpineol || 04:01,1.0,1
+10.1016/j.talanta.2023.124831,Parathion,Choline chloride || Propylene glycol || 01:06,Tetrabutylammonium bromide || Terpineol || 03:01,1.0,1
+10.1016/j.talanta.2023.124831,Parathion,Choline chloride || Propylene glycol || 01:06,Tetrabutylammonium bromide || Terpineol || 02:01,0.9999999999988305,1
+10.1016/j.talanta.2023.124831,Parathion,Choline chloride || Propylene glycol || 01:06,Tetrabutylammonium bromide || Terpineol || 01:02,0.9999929544248847,1
+10.1016/j.talanta.2023.124831,Parathion,Choline chloride || Propylene glycol || 01:06,Tetrabutylammonium bromide || Terpineol || 01:03,0.9999843993352476,1
+10.1016/j.talanta.2023.124831,Parathion,Choline chloride || Propylene glycol || 02:01,Tetrabutylammonium bromide || Undecanol || 01:01,0.9999999987704713,1
+10.1016/j.talanta.2023.124831,Parathion,Choline chloride || Propylene glycol || 02:01,Tetrabutylammonium bromide || Menthol || 01:01,0.9999999999839064,1
+10.1016/j.talanta.2023.124831,Parathion,Choline chloride || Propylene glycol || 02:01,Tetrabutylammonium bromide || Terpineol || 01:01,0.9999999999859133,1
+10.1016/j.talanta.2023.124831,Parathion,Choline chloride || Propylene glycol || 02:01,Tetrabutylammonium bromide || Citronellol || 01:01,0.9999999992802464,1
+10.1016/j.talanta.2023.124831,Parathion,Choline chloride || Propylene glycol || 02:01,Tetrabutylammonium bromide || Geraniol || 01:01,0.9999999995257263,1
+10.1016/j.talanta.2023.124831,Parathion,Choline chloride || Propylene glycol || 02:01,Tetrabutylammonium bromide || Linalool || 01:01,0.9999999995239792,1
+10.1016/j.talanta.2023.124831,Parathion,Choline chloride || Propylene glycol || 02:01,Tetrabutylammonium bromide || Terpineol || 05:01,1.0,1
+10.1016/j.talanta.2023.124831,Parathion,Choline chloride || Propylene glycol || 02:01,Tetrabutylammonium bromide || Terpineol || 04:01,1.0,1
+10.1016/j.talanta.2023.124831,Parathion,Choline chloride || Propylene glycol || 02:01,Tetrabutylammonium bromide || Terpineol || 03:01,1.0,1
+10.1016/j.talanta.2023.124831,Parathion,Choline chloride || Propylene glycol || 02:01,Tetrabutylammonium bromide || Terpineol || 02:01,0.9999999999999998,1
+10.1016/j.talanta.2023.124831,Parathion,Choline chloride || Propylene glycol || 02:01,Tetrabutylammonium bromide || Terpineol || 01:02,0.9999999985059731,1
+10.1016/j.talanta.2023.124831,Parathion,Choline chloride || Propylene glycol || 02:01,Tetrabutylammonium bromide || Terpineol || 01:03,0.9999999966918225,1
+10.1016/j.talanta.2023.124831,Parathion,Tetrabutylammonium bromide || Undecanol || 01:01,Tetrabutylammonium bromide || Menthol || 01:01,0.9870798255355372,1
+10.1016/j.talanta.2023.124831,Parathion,Tetrabutylammonium bromide || Undecanol || 01:01,Tetrabutylammonium bromide || Terpineol || 01:01,0.9886727062240774,1
+10.1016/j.talanta.2023.124831,Parathion,Tetrabutylammonium bromide || Undecanol || 01:01,Tetrabutylammonium bromide || Citronellol || 01:01,0.6307596933295552,1
+10.1016/j.talanta.2023.124831,Parathion,Tetrabutylammonium bromide || Undecanol || 01:01,Tetrabutylammonium bromide || Geraniol || 01:01,0.7216381218181673,1
+10.1016/j.talanta.2023.124831,Parathion,Tetrabutylammonium bromide || Undecanol || 01:01,Tetrabutylammonium bromide || Linalool || 01:01,0.7208988642492925,1
+10.1016/j.talanta.2023.124831,Parathion,Tetrabutylammonium bromide || Undecanol || 01:01,Tetrabutylammonium bromide || Terpineol || 05:01,1.0,1
+10.1016/j.talanta.2023.124831,Parathion,Tetrabutylammonium bromide || Undecanol || 01:01,Tetrabutylammonium bromide || Terpineol || 04:01,1.0,1
+10.1016/j.talanta.2023.124831,Parathion,Tetrabutylammonium bromide || Undecanol || 01:01,Tetrabutylammonium bromide || Terpineol || 03:01,0.9999999999984179,1
+10.1016/j.talanta.2023.124831,Parathion,Tetrabutylammonium bromide || Undecanol || 01:01,Tetrabutylammonium bromide || Terpineol || 02:01,0.9999997983173798,1
+10.1016/j.talanta.2023.124831,Parathion,Tetrabutylammonium bromide || Undecanol || 01:01,Tetrabutylammonium bromide || Terpineol || 01:02,0.45144248388427505,0
+10.1016/j.talanta.2023.124831,Parathion,Tetrabutylammonium bromide || Undecanol || 01:01,Tetrabutylammonium bromide || Terpineol || 01:03,0.27095820795211534,0
+10.1016/j.talanta.2023.124831,Parathion,Tetrabutylammonium bromide || Menthol || 01:01,Tetrabutylammonium bromide || Terpineol || 01:01,0.5332476764942743,1
+10.1016/j.talanta.2023.124831,Parathion,Tetrabutylammonium bromide || Menthol || 01:01,Tetrabutylammonium bromide || Citronellol || 01:01,0.021870922539050455,0
+10.1016/j.talanta.2023.124831,Parathion,Tetrabutylammonium bromide || Menthol || 01:01,Tetrabutylammonium bromide || Geraniol || 01:01,0.032819601103997335,0
+10.1016/j.talanta.2023.124831,Parathion,Tetrabutylammonium bromide || Menthol || 01:01,Tetrabutylammonium bromide || Linalool || 01:01,0.03270307913573922,0
+10.1016/j.talanta.2023.124831,Parathion,Tetrabutylammonium bromide || Menthol || 01:01,Tetrabutylammonium bromide || Terpineol || 05:01,1.0,1
+10.1016/j.talanta.2023.124831,Parathion,Tetrabutylammonium bromide || Menthol || 01:01,Tetrabutylammonium bromide || Terpineol || 04:01,0.9999999999999993,1
+10.1016/j.talanta.2023.124831,Parathion,Tetrabutylammonium bromide || Menthol || 01:01,Tetrabutylammonium bromide || Terpineol || 03:01,0.9999999998791362,1
+10.1016/j.talanta.2023.124831,Parathion,Tetrabutylammonium bromide || Menthol || 01:01,Tetrabutylammonium bromide || Terpineol || 02:01,0.9999845920177911,1
+10.1016/j.talanta.2023.124831,Parathion,Tetrabutylammonium bromide || Menthol || 01:01,Tetrabutylammonium bromide || Terpineol || 01:02,0.010657200987582723,0
+10.1016/j.talanta.2023.124831,Parathion,Tetrabutylammonium bromide || Menthol || 01:01,Tetrabutylammonium bromide || Terpineol || 01:03,0.004841259372778819,0
+10.1016/j.talanta.2023.124831,Parathion,Tetrabutylammonium bromide || Terpineol || 01:01,Tetrabutylammonium bromide || Citronellol || 01:01,0.01919599725380071,0
+10.1016/j.talanta.2023.124831,Parathion,Tetrabutylammonium bromide || Terpineol || 01:01,Tetrabutylammonium bromide || Geraniol || 01:01,0.028845086160390627,0
+10.1016/j.talanta.2023.124831,Parathion,Tetrabutylammonium bromide || Terpineol || 01:01,Tetrabutylammonium bromide || Linalool || 01:01,0.028742255874423864,0
+10.1016/j.talanta.2023.124831,Parathion,Tetrabutylammonium bromide || Terpineol || 01:01,Tetrabutylammonium bromide || Terpineol || 05:01,1.0,1
+10.1016/j.talanta.2023.124831,Parathion,Tetrabutylammonium bromide || Terpineol || 01:01,Tetrabutylammonium bromide || Terpineol || 04:01,0.9999999999999993,1
+10.1016/j.talanta.2023.124831,Parathion,Tetrabutylammonium bromide || Terpineol || 01:01,Tetrabutylammonium bromide || Terpineol || 03:01,0.9999999998619176,1
+10.1016/j.talanta.2023.124831,Parathion,Tetrabutylammonium bromide || Terpineol || 01:01,Tetrabutylammonium bromide || Terpineol || 02:01,0.9999823969753054,1
+10.1016/j.talanta.2023.124831,Parathion,Tetrabutylammonium bromide || Terpineol || 01:01,Tetrabutylammonium bromide || Terpineol || 01:02,0.00934067385881651,0
+10.1016/j.talanta.2023.124831,Parathion,Tetrabutylammonium bromide || Terpineol || 01:01,Tetrabutylammonium bromide || Terpineol || 01:03,0.004240119826647264,0
+10.1016/j.talanta.2023.124831,Parathion,Tetrabutylammonium bromide || Citronellol || 01:01,Tetrabutylammonium bromide || Geraniol || 01:01,0.6027949693751956,1
+10.1016/j.talanta.2023.124831,Parathion,Tetrabutylammonium bromide || Citronellol || 01:01,Tetrabutylammonium bromide || Linalool || 01:01,0.6019142024220047,1
+10.1016/j.talanta.2023.124831,Parathion,Tetrabutylammonium bromide || Citronellol || 01:01,Tetrabutylammonium bromide || Terpineol || 05:01,1.0,1
+10.1016/j.talanta.2023.124831,Parathion,Tetrabutylammonium bromide || Citronellol || 01:01,Tetrabutylammonium bromide || Terpineol || 04:01,1.0,1
+10.1016/j.talanta.2023.124831,Parathion,Tetrabutylammonium bromide || Citronellol || 01:01,Tetrabutylammonium bromide || Terpineol || 03:01,0.9999999999972975,1
+10.1016/j.talanta.2023.124831,Parathion,Tetrabutylammonium bromide || Citronellol || 01:01,Tetrabutylammonium bromide || Terpineol || 02:01,0.9999996554730154,1
+10.1016/j.talanta.2023.124831,Parathion,Tetrabutylammonium bromide || Citronellol || 01:01,Tetrabutylammonium bromide || Terpineol || 01:02,0.32512419252097646,0
+10.1016/j.talanta.2023.124831,Parathion,Tetrabutylammonium bromide || Citronellol || 01:01,Tetrabutylammonium bromide || Terpineol || 01:03,0.17869064815607186,0
+10.1016/j.talanta.2023.124831,Parathion,Tetrabutylammonium bromide || Geraniol || 01:01,Tetrabutylammonium bromide || Linalool || 01:01,0.4990807101416167,0
+10.1016/j.talanta.2023.124831,Parathion,Tetrabutylammonium bromide || Geraniol || 01:01,Tetrabutylammonium bromide || Terpineol || 05:01,1.0,1
+10.1016/j.talanta.2023.124831,Parathion,Tetrabutylammonium bromide || Geraniol || 01:01,Tetrabutylammonium bromide || Terpineol || 04:01,1.0,1
+10.1016/j.talanta.2023.124831,Parathion,Tetrabutylammonium bromide || Geraniol || 01:01,Tetrabutylammonium bromide || Terpineol || 03:01,0.9999999999958986,1
+10.1016/j.talanta.2023.124831,Parathion,Tetrabutylammonium bromide || Geraniol || 01:01,Tetrabutylammonium bromide || Terpineol || 02:01,0.9999994771488776,1
+10.1016/j.talanta.2023.124831,Parathion,Tetrabutylammonium bromide || Geraniol || 01:01,Tetrabutylammonium bromide || Terpineol || 01:02,0.24095589642378998,0
+10.1016/j.talanta.2023.124831,Parathion,Tetrabutylammonium bromide || Geraniol || 01:01,Tetrabutylammonium bromide || Terpineol || 01:03,0.12538790749209278,0
+10.1016/j.talanta.2023.124831,Parathion,Tetrabutylammonium bromide || Linalool || 01:01,Tetrabutylammonium bromide || Terpineol || 05:01,1.0,1
+10.1016/j.talanta.2023.124831,Parathion,Tetrabutylammonium bromide || Linalool || 01:01,Tetrabutylammonium bromide || Terpineol || 04:01,1.0,1
+10.1016/j.talanta.2023.124831,Parathion,Tetrabutylammonium bromide || Linalool || 01:01,Tetrabutylammonium bromide || Terpineol || 03:01,0.9999999999959137,1
+10.1016/j.talanta.2023.124831,Parathion,Tetrabutylammonium bromide || Linalool || 01:01,Tetrabutylammonium bromide || Terpineol || 02:01,0.9999994790679552,1
+10.1016/j.talanta.2023.124831,Parathion,Tetrabutylammonium bromide || Linalool || 01:01,Tetrabutylammonium bromide || Terpineol || 01:02,0.24162907597075398,0
+10.1016/j.talanta.2023.124831,Parathion,Tetrabutylammonium bromide || Linalool || 01:01,Tetrabutylammonium bromide || Terpineol || 01:03,0.12579172230839306,0
+10.1016/j.talanta.2023.124831,Parathion,Tetrabutylammonium bromide || Terpineol || 05:01,Tetrabutylammonium bromide || Terpineol || 04:01,3.922342227605288e-06,0
+10.1016/j.talanta.2023.124831,Parathion,Tetrabutylammonium bromide || Terpineol || 05:01,Tetrabutylammonium bromide || Terpineol || 03:01,1.8894397608532262e-11,0
+10.1016/j.talanta.2023.124831,Parathion,Tetrabutylammonium bromide || Terpineol || 05:01,Tetrabutylammonium bromide || Terpineol || 02:01,1.482097711369273e-16,0
+10.1016/j.talanta.2023.124831,Parathion,Tetrabutylammonium bromide || Terpineol || 05:01,Tetrabutylammonium bromide || Terpineol || 01:02,2.459946465469029e-23,0
+10.1016/j.talanta.2023.124831,Parathion,Tetrabutylammonium bromide || Terpineol || 05:01,Tetrabutylammonium bromide || Terpineol || 01:03,1.1109519755436601e-23,0
+10.1016/j.talanta.2023.124831,Parathion,Tetrabutylammonium bromide || Terpineol || 04:01,Tetrabutylammonium bromide || Terpineol || 03:01,4.817079027467135e-06,0
+10.1016/j.talanta.2023.124831,Parathion,Tetrabutylammonium bromide || Terpineol || 04:01,Tetrabutylammonium bromide || Terpineol || 02:01,3.778588945115296e-11,0
+10.1016/j.talanta.2023.124831,Parathion,Tetrabutylammonium bromide || Terpineol || 04:01,Tetrabutylammonium bromide || Terpineol || 01:02,6.271601696058625e-18,0
+10.1016/j.talanta.2023.124831,Parathion,Tetrabutylammonium bromide || Terpineol || 04:01,Tetrabutylammonium bromide || Terpineol || 01:03,2.832357692276341e-18,0
+10.1016/j.talanta.2023.124831,Parathion,Tetrabutylammonium bromide || Terpineol || 03:01,Tetrabutylammonium bromide || Terpineol || 02:01,7.844050476754724e-06,0
+10.1016/j.talanta.2023.124831,Parathion,Tetrabutylammonium bromide || Terpineol || 03:01,Tetrabutylammonium bromide || Terpineol || 01:02,1.301944902603569e-12,0
+10.1016/j.talanta.2023.124831,Parathion,Tetrabutylammonium bromide || Terpineol || 03:01,Tetrabutylammonium bromide || Terpineol || 01:03,5.879795686210904e-13,0
+10.1016/j.talanta.2023.124831,Parathion,Tetrabutylammonium bromide || Terpineol || 02:01,Tetrabutylammonium bromide || Terpineol || 01:02,1.6597731973427385e-07,0
+10.1016/j.talanta.2023.124831,Parathion,Tetrabutylammonium bromide || Terpineol || 02:01,Tetrabutylammonium bromide || Terpineol || 01:03,7.495807352960931e-08,0
+10.1016/j.talanta.2023.124831,Parathion,Tetrabutylammonium bromide || Terpineol || 01:02,Tetrabutylammonium bromide || Terpineol || 01:03,0.3111127336426271,0
+10.1021/acssuschemeng.4c03110,Triadimefon,Terpineol || Lauric acid || 01:01,Menthol || Lauric acid || 01:01,0.5560363666818052,1
+10.1021/acssuschemeng.4c03110,Triadimefon,Terpineol || Lauric acid || 01:01,Terpineol || Decanoic acid || 01:01,0.22195703459643776,0
+10.1021/acssuschemeng.4c03110,Triadimefon,Terpineol || Lauric acid || 01:01,Menthol || Decanoic acid || 01:01,0.2468149162352695,0
+10.1021/acssuschemeng.4c03110,Triadimefon,Terpineol || Lauric acid || 01:01,Octanol || Decanoic acid || 01:01,0.00019974381031008113,0
+10.1021/acssuschemeng.4c03110,Triadimefon,Terpineol || Lauric acid || 01:01,Decyl alcohol || Decanoic acid || 01:01,9.22853391324805e-06,0
+10.1021/acssuschemeng.4c03110,Triadimefon,Terpineol || Lauric acid || 01:01,Terpineol || Decanoic acid || 02:01,0.023152756114331183,0
+10.1021/acssuschemeng.4c03110,Triadimefon,Terpineol || Lauric acid || 01:01,Terpineol || Decanoic acid || 03:01,0.001566308853759804,0
+10.1021/acssuschemeng.4c03110,Triadimefon,Menthol || Lauric acid || 01:01,Terpineol || Decanoic acid || 01:01,0.1855197294295523,0
+10.1021/acssuschemeng.4c03110,Triadimefon,Menthol || Lauric acid || 01:01,Menthol || Decanoic acid || 01:01,0.20738456025708862,0
+10.1021/acssuschemeng.4c03110,Triadimefon,Menthol || Lauric acid || 01:01,Octanol || Decanoic acid || 01:01,0.0001594905718431641,0
+10.1021/acssuschemeng.4c03110,Triadimefon,Menthol || Lauric acid || 01:01,Decyl alcohol || Decanoic acid || 01:01,7.368476799005738e-06,0
+10.1021/acssuschemeng.4c03110,Triadimefon,Menthol || Lauric acid || 01:01,Terpineol || Decanoic acid || 02:01,0.01857283985950152,0
+10.1021/acssuschemeng.4c03110,Triadimefon,Menthol || Lauric acid || 01:01,Terpineol || Decanoic acid || 03:01,0.0012510040946911447,0
+10.1021/acssuschemeng.4c03110,Triadimefon,Terpineol || Decanoic acid || 01:01,Menthol || Decanoic acid || 01:01,0.5346010215777964,1
+10.1021/acssuschemeng.4c03110,Triadimefon,Terpineol || Decanoic acid || 01:01,Octanol || Decanoic acid || 01:01,0.0006998270349180826,0
+10.1021/acssuschemeng.4c03110,Triadimefon,Terpineol || Decanoic acid || 01:01,Decyl alcohol || Decanoic acid || 01:01,3.2348737656013545e-05,0
+10.1021/acssuschemeng.4c03110,Triadimefon,Terpineol || Decanoic acid || 01:01,Terpineol || Decanoic acid || 02:01,0.07670948745887442,0
+10.1021/acssuschemeng.4c03110,Triadimefon,Terpineol || Decanoic acid || 01:01,Terpineol || Decanoic acid || 03:01,0.005469040620733164,0
+10.1021/acssuschemeng.4c03110,Triadimefon,Menthol || Decanoic acid || 01:01,Octanol || Decanoic acid || 01:01,0.0006092923164644424,0
+10.1021/acssuschemeng.4c03110,Triadimefon,Menthol || Decanoic acid || 01:01,Decyl alcohol || Decanoic acid || 01:01,2.8161436085697887e-05,0
+10.1021/acssuschemeng.4c03110,Triadimefon,Menthol || Decanoic acid || 01:01,Terpineol || Decanoic acid || 02:01,0.06744949624405436,0
+10.1021/acssuschemeng.4c03110,Triadimefon,Menthol || Decanoic acid || 01:01,Terpineol || Decanoic acid || 03:01,0.004764467363896982,0
+10.1021/acssuschemeng.4c03110,Triadimefon,Octanol || Decanoic acid || 01:01,Decyl alcohol || Decanoic acid || 01:01,0.04415346626338303,0
+10.1021/acssuschemeng.4c03110,Triadimefon,Octanol || Decanoic acid || 01:01,Terpineol || Decanoic acid || 02:01,0.9916413016671918,1
+10.1021/acssuschemeng.4c03110,Triadimefon,Octanol || Decanoic acid || 01:01,Terpineol || Decanoic acid || 03:01,0.887035285943695,1
+10.1021/acssuschemeng.4c03110,Triadimefon,Decyl alcohol || Decanoic acid || 01:01,Terpineol || Decanoic acid || 02:01,0.9996107831699238,1
+10.1021/acssuschemeng.4c03110,Triadimefon,Decyl alcohol || Decanoic acid || 01:01,Terpineol || Decanoic acid || 03:01,0.9941516790887889,1
+10.1021/acssuschemeng.4c03110,Triadimefon,Terpineol || Decanoic acid || 02:01,Terpineol || Decanoic acid || 03:01,0.06207949353707072,0
+10.3390/biology13060438,Tea Saponin,Betaine || Ethylene Glycol || 01:03,Betaine || Ethylene Glycol || 01:02,0.5755000366400778,1
+10.3390/biology13060438,Tea Saponin,Betaine || Ethylene Glycol || 01:03,Choline Chloride || Glycerol || 01:03,0.999987940452456,1
+10.3390/biology13060438,Tea Saponin,Betaine || Ethylene Glycol || 01:03,Choline Chloride || Glycerol || 01:02,0.9999909792138211,1
+10.3390/biology13060438,Tea Saponin,Betaine || Ethylene Glycol || 01:03,Choline Chloride || Urea || 01:02,1.0,1
+10.3390/biology13060438,Tea Saponin,Betaine || Ethylene Glycol || 01:03,Choline Chloride || Urea || 01:03,1.0,1
+10.3390/biology13060438,Tea Saponin,Betaine || Ethylene Glycol || 01:03,Choline Chloride || Ethylene Glycol || 01:03,0.9999877306389754,1
+10.3390/biology13060438,Tea Saponin,Betaine || Ethylene Glycol || 01:03,Choline Chloride || Ethylene Glycol || 01:02,0.9999985809096,1
+10.3390/biology13060438,Tea Saponin,Betaine || Ethylene Glycol || 01:03,Betaine || Glycerol || 01:03,0.9632096418014333,1
+10.3390/biology13060438,Tea Saponin,Betaine || Ethylene Glycol || 01:03,Betaine || Glycerol || 01:02,0.9243646730614851,1
+10.3390/biology13060438,Tea Saponin,Betaine || Ethylene Glycol || 01:02,Choline Chloride || Glycerol || 01:03,0.9999836507870891,1
+10.3390/biology13060438,Tea Saponin,Betaine || Ethylene Glycol || 01:02,Choline Chloride || Glycerol || 01:02,0.9999877704438958,1
+10.3390/biology13060438,Tea Saponin,Betaine || Ethylene Glycol || 01:02,Choline Chloride || Urea || 01:02,1.0,1
+10.3390/biology13060438,Tea Saponin,Betaine || Ethylene Glycol || 01:02,Choline Chloride || Urea || 01:03,1.0,1
+10.3390/biology13060438,Tea Saponin,Betaine || Ethylene Glycol || 01:02,Choline Chloride || Ethylene Glycol || 01:03,0.9999833663427282,1
+10.3390/biology13060438,Tea Saponin,Betaine || Ethylene Glycol || 01:02,Choline Chloride || Ethylene Glycol || 01:02,0.9999980761219425,1
+10.3390/biology13060438,Tea Saponin,Betaine || Ethylene Glycol || 01:02,Betaine || Glycerol || 01:03,0.9507671408959194,1
+10.3390/biology13060438,Tea Saponin,Betaine || Ethylene Glycol || 01:02,Betaine || Glycerol || 01:02,0.9001467167601767,1
+10.3390/biology13060438,Tea Saponin,Choline Chloride || Glycerol || 01:03,Choline Chloride || Glycerol || 01:02,0.5720764853349168,1
+10.3390/biology13060438,Tea Saponin,Choline Chloride || Glycerol || 01:03,Choline Chloride || Urea || 01:02,1.0,1
+10.3390/biology13060438,Tea Saponin,Choline Chloride || Glycerol || 01:03,Choline Chloride || Urea || 01:03,1.0,1
+10.3390/biology13060438,Tea Saponin,Choline Chloride || Glycerol || 01:03,Choline Chloride || Ethylene Glycol || 01:03,0.4956879275530735,0
+10.3390/biology13060438,Tea Saponin,Choline Chloride || Glycerol || 01:03,Choline Chloride || Ethylene Glycol || 01:02,0.894716595559393,1
+10.3390/biology13060438,Tea Saponin,Choline Chloride || Glycerol || 01:03,Betaine || Glycerol || 01:03,0.000315635582139583,0
+10.3390/biology13060438,Tea Saponin,Choline Chloride || Glycerol || 01:03,Betaine || Glycerol || 01:02,0.00014736382933921654,0
+10.3390/biology13060438,Tea Saponin,Choline Chloride || Glycerol || 01:02,Choline Chloride || Urea || 01:02,1.0,1
+10.3390/biology13060438,Tea Saponin,Choline Chloride || Glycerol || 01:02,Choline Chloride || Urea || 01:03,1.0,1
+10.3390/biology13060438,Tea Saponin,Choline Chloride || Glycerol || 01:02,Choline Chloride || Ethylene Glycol || 01:03,0.42370629026101025,0
+10.3390/biology13060438,Tea Saponin,Choline Chloride || Glycerol || 01:02,Choline Chloride || Ethylene Glycol || 01:02,0.8640710866555484,1
+10.3390/biology13060438,Tea Saponin,Choline Chloride || Glycerol || 01:02,Betaine || Glycerol || 01:03,0.00023611988000586063,0
+10.3390/biology13060438,Tea Saponin,Choline Chloride || Glycerol || 01:02,Betaine || Glycerol || 01:02,0.0001102348918622835,0
+10.3390/biology13060438,Tea Saponin,Choline Chloride || Urea || 01:02,Choline Chloride || Urea || 01:03,0.9008215886673231,1
+10.3390/biology13060438,Tea Saponin,Choline Chloride || Urea || 01:02,Choline Chloride || Ethylene Glycol || 01:03,2.1887610253098326e-17,0
+10.3390/biology13060438,Tea Saponin,Choline Chloride || Urea || 01:02,Choline Chloride || Ethylene Glycol || 01:02,1.8924087288714854e-16,0
+10.3390/biology13060438,Tea Saponin,Choline Chloride || Urea || 01:02,Betaine || Glycerol || 01:03,7.030924364656834e-21,0
+10.3390/biology13060438,Tea Saponin,Choline Chloride || Urea || 01:02,Betaine || Glycerol || 01:02,3.2820430397169812e-21,0
+10.3390/biology13060438,Tea Saponin,Choline Chloride || Urea || 01:03,Choline Chloride || Ethylene Glycol || 01:03,2.409776186628187e-18,0
+10.3390/biology13060438,Tea Saponin,Choline Chloride || Urea || 01:03,Choline Chloride || Ethylene Glycol || 01:02,2.0834990377975537e-17,0
+10.3390/biology13060438,Tea Saponin,Choline Chloride || Urea || 01:03,Betaine || Glycerol || 01:03,7.740888067730434e-22,0
+10.3390/biology13060438,Tea Saponin,Choline Chloride || Urea || 01:03,Betaine || Glycerol || 01:02,3.6134548583161386e-22,0
+10.3390/biology13060438,Tea Saponin,Choline Chloride || Ethylene Glycol || 01:03,Choline Chloride || Ethylene Glycol || 01:02,0.8963303769934311,1
+10.3390/biology13060438,Tea Saponin,Choline Chloride || Ethylene Glycol || 01:03,Betaine || Glycerol || 01:03,0.0003211253524398508,0
+10.3390/biology13060438,Tea Saponin,Choline Chloride || Ethylene Glycol || 01:03,Betaine || Glycerol || 01:02,0.00014992733029416154,0
+10.3390/biology13060438,Tea Saponin,Choline Chloride || Ethylene Glycol || 01:02,Betaine || Glycerol || 01:03,3.7151927303033457e-05,0
+10.3390/biology13060438,Tea Saponin,Choline Chloride || Ethylene Glycol || 01:02,Betaine || Glycerol || 01:02,1.734290309218652e-05,0
+10.3390/biology13060438,Tea Saponin,Betaine || Glycerol || 01:03,Betaine || Glycerol || 01:02,0.31824429487918715,0

@@ -1,0 +1,2 @@
+total_pairwise_rows,unique_informative_groups,median_pairs_per_group,min_pairs_per_group,max_pairs_per_group,effective_unordered_pairs_est,bidirectional_used
+74,11,4.0,4,24,37.0,True

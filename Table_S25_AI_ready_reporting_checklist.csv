@@ -1,0 +1,9 @@
+reporting_element,examples,why_it_matters_for_ml_recommendation
+Study provenance,"DOI, title, source table/figure, SI location",Enables traceability and audit of extracted records
+Analyte identity,"Name, normalized name, SMILES, analyte family",Defines the decision context and descriptor calculation
+DES identity,"HBA, HBD, molar ratio, water content, component identifiers",Defines candidate systems and DES-level descriptors
+Full candidate set,"Optimal, near-optimal, low-performing, rejected DESs",Preserves within-group competition for ranking
+Experimental conditions,"Matrix, pH, ionic strength, extraction time, temperature, technique",Separates solvent effects from protocol and matrix effects
+Analytical response,"Recovery, replicate information, uncertainty, EF, LOD/LOQ units",Supports reliable target definition and comparison
+Comparability metadata,Which candidates were evaluated under the same conditions,Identifies meaningful local ranking groups
+Machine-readable format,Structured tables with one row per DES–analyte condition,Reduces extraction errors and supports reproducibility
