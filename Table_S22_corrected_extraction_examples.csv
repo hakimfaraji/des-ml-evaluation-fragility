@@ -1,0 +1,7 @@
+doi,field_corrected,extracted_value_before_correction,corrected_value_after_validation,source_location_checked,error_category,potential_downstream_impact
+10.1016/j.chroma.2021.462036,Extraction time,1 min,2 min,"Main text, Section 3.2.2, Figure 3d",Experimental-condition assignment,"Affects interpretation of extraction context and within-study comparability, although not used as a leakage-clean descriptor."
+10.1016/j.talanta.2023.124831,DES HBA/HBD molar ratio for tetrabutylammonium bromide:terpineol,2:1,4:1,"Main text, Section 3.3.2, Figure 4B",Molar-ratio parsing,Affects DES composition and molar-ratio-weighted descriptors.
+10.1016/j.microc.2023.109226,DES HBA/HBD molar ratio for choline chloride:1-phenylethanol,1:0,1:6,"Main text, Section 3.1.1, Figure 1",Molar-ratio parsing,"Affects DES composition, descriptor calculation, and eligibility of the DES system."
+10.1002/jssc.202100863,LOD unit,μg/L,μg/kg,"Main text, Table 1; Table S2; Section 3.3",Unit interpretation,Affects interpretation of analytical-performance metadata; LOD was excluded from the leakage-clean feature space.
+10.1002/jssc.202100863,Temperature,25 °C,80 °C,"Supporting Information, Table S1",Experimental-condition assignment,Affects interpretation of DES preparation/experimental context; not used as a leakage-clean descriptor.
+10.1016/j.microc.2022.107226,Recovery (%) of lindane,86.4,84.6,"Supporting Information, Table S1",Recovery-value assignment,Can affect optimal-label assignment and group-level ranking if the corrected value changes within-group ordering.

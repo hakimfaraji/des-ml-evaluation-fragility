@@ -1,0 +1,8 @@
+descriptor_family,representative_descriptors,chemical_rationale,main_limitation
+LogP / polarity descriptors,"analyte_logp, des_logp_wmean, pair_logp_absdiff, pair_logp_match_binary",Approximate hydrophobicity and polarity matching between pesticide analytes and DES systems,"Does not capture phase behavior, activity coefficients, or solvent microstructure"
+TPSA descriptors,"analyte_tpsa, des_tpsa_wmean, pair_tpsa_absdiff, pair_tpsa_match_binary",Approximate polar surface compatibility and polar interaction potential,Does not capture explicit solvation or local hydrogen-bond networks
+Hydrogen-bond descriptors,"analyte_hba, analyte_hbd, des_hba_wmean, des_hbd_wmean, pair_hbond_complement_sum",Approximate donor–acceptor complementarity between analyte and DES components,Does not represent directional or dynamic H-bond networks
+Molecular size descriptors,"analyte_molwt, des_molwt_wmean, pair_heavyatoms_product, pair_molwt_absdiff","Approximate molecular size, dispersion-related interactions, and steric compatibility",Does not encode molecular shape or conformer-specific interactions
+Structural flexibility descriptors,"rotatable bonds, ring count",Approximate rigidity/flexibility and structural complexity,Coarse proxy; does not model conformational ensembles
+DES composition descriptors,"ratio_hba_fraction, ratio_hbd_fraction, ratio_hba_to_hbd",Preserve HBA/HBD composition and molar-ratio information,Limited to simplified compositional representation
+DES–analyte transformations,"absolute difference, ratio, product","Capture mismatch, proportional contrast, and simple interaction proxies","Descriptive transformations, not mechanistic interaction energies"

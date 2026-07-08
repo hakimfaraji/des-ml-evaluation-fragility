@@ -1,0 +1,166 @@
+doi,analyte,des_system_key,is_optimal,heuristic_primary_score,heuristic_tpsa_score,heuristic_hbond_balance_score,rank_heuristic
+10.1002/ansa.70039,Imidacloprid,Choline chloride || Salicylic acid || 01:01,False,1.7982499999999983,44.78,2.0,1
+10.1002/ansa.70039,Imidacloprid,Choline chloride || Thymol || 02:01,False,1.9539599999999973,63.42999999999999,2.0,2
+10.1002/ansa.70039,Imidacloprid,Menthol || Thymol || 01:02,True,2.0079466666666685,63.42999999999999,2.0,3
+10.1002/ansa.70039,Imidacloprid,Choline chloride || Urea || 02:01,False,3.2206999999999977,47.13666666666666,1.6666666666666667,4
+10.1002/jssc.201901000,"2,4-D",Choline chloride || n-butyric acid || 01:02,True,2.979766666666665,14.920000000000002,1.0,1
+10.1002/jssc.201901000,Dalapon,Choline chloride || n-butyric acid || 01:02,True,1.7877666666666658,5.689999999999998,0.0,1
+10.1002/jssc.201901000,Fenoxaprop,Choline chloride || n-butyric acid || 01:02,True,4.648366666666668,50.18000000000001,4.0,1
+10.1002/jssc.201901000,Haloxyfop,Choline chloride || n-butyric acid || 01:02,True,4.920966666666668,37.040000000000006,3.0,1
+10.1002/jssc.201901000,MCPA,Choline chloride || n-butyric acid || 01:02,True,2.634786666666665,14.920000000000002,1.0,1
+10.1002/jssc.202200236,Ametryn,Menthol || Octanol || 01:01,True,0.5437500000000015,42.5,6.0,1
+10.1002/jssc.202200236,Atrazine,Menthol || Octanol || 01:01,True,0.6122500000000015,42.5,5.0,1
+10.1002/jssc.202200236,Cyanazine,Menthol || Octanol || 01:01,True,0.7184700000000015,66.29,6.0,1
+10.1002/jssc.202200236,Propazine,Menthol || Octanol || 01:01,True,0.2237500000000016,42.5,5.0,1
+10.1002/jssc.202200236,Simazine,Menthol || Octanol || 01:01,True,1.0007500000000014,42.5,5.0,1
+10.1002/sscp.202200140,Ametoctradin,Choline chloride || Ethylene glycol || 01:02,True,4.9616,35.383333333333326,3.0,1
+10.1002/sscp.202200140,Difenoconazol,Choline chloride || Ethylene glycol || 01:02,True,6.455200000000002,24.683333333333337,5.0,1
+10.1002/sscp.202200140,Penconazol,Choline chloride || Ethylene glycol || 01:02,True,5.958500000000002,3.006666666666668,2.0,1
+10.1002/sscp.202200140,Propiconazole,Choline chloride || Ethylene glycol || 01:02,True,5.443100000000002,15.453333333333331,4.0,1
+10.1002/sscp.202200140,Tebuconazole,Choline chloride || Ethylene glycol || 01:02,True,5.1312000000000015,17.22333333333333,2.0,1
+10.1016/j.chemosphere.2020.127590,Acid blue 29,Tetrabutylammonium bromide || Decanoic acid || 01:03,True,4.227874999999999,225.255,14.5,1
+10.1016/j.chemosphere.2020.127590,Chlorpyrifos,Tetrabutylammonium bromide || Decanoic acid || 01:03,True,1.8074250000000007,12.605,5.0,1
+10.1016/j.chemosphere.2020.127590,Diazinon,Tetrabutylammonium bromide || Decanoic acid || 01:03,True,0.6740450000000013,25.495,6.0,1
+10.1016/j.chemosphere.2020.127590,Fenitrothion,Tetrabutylammonium bromide || Decanoic acid || 01:03,True,0.1113549999999996,42.855,6.0,1
+10.1016/j.chemosphere.2020.127590,Malachite green,Tetrabutylammonium bromide || Decanoic acid || 01:03,True,1.5130750000000015,21.725,1.0,1
+10.1016/j.chroma.2022.462922,Buprofezin,Betaine || Propylene glycol || 01:04,True,5.006100000000004,4.484000000000002,3.4,1
+10.1016/j.chroma.2022.462922,Chlorpyrifos,Betaine || Propylene glycol || 01:04,True,5.5420000000000025,0.1859999999999999,5.4,1
+10.1016/j.chroma.2022.462922,Chlorpyrifos-methyl,Betaine || Propylene glycol || 01:04,True,4.761800000000002,0.1859999999999999,5.4,1
+10.1016/j.chroma.2022.462922,Cyhalothrin,Betaine || Propylene glycol || 01:04,True,7.367880000000004,18.92600000000001,4.4,1
+10.1016/j.chroma.2022.462922,Endosulfan sulfate,Betaine || Propylene glycol || 01:04,True,4.179800000000001,12.20600000000001,4.4,1
+10.1016/j.chroma.2022.462922,Fenthion,Betaine || Propylene glycol || 01:04,True,4.436920000000002,12.703999999999995,5.4,1
+10.1016/j.chroma.2022.462922,Malathion,Betaine || Propylene glycol || 01:04,True,2.9457,30.666000000000015,8.4,1
+10.1016/j.chroma.2022.462922,Pyriproxyfen,Betaine || Propylene glycol || 01:04,True,5.544100000000004,0.1859999999999999,4.4,1
+10.1016/j.chroma.2022.462922,Terbuthylazine,Betaine || Propylene glycol || 01:04,True,2.9911,22.33600000000001,3.4,1
+10.1016/j.chroma.2022.462922,Trifloxystrobin,Betaine || Propylene glycol || 01:04,True,4.993600000000003,29.08600000000001,6.4,1
+10.1016/j.chroma.2025.466262,Beta-cypermethrin,Coumarin || Thymol || 01:02,True,3.697633333333336,35.763333333333335,4.666666666666667,1
+10.1016/j.chroma.2025.466262,Bifenthrin,Coumarin || Thymol || 01:02,True,4.182073333333337,2.7433333333333323,2.666666666666667,1
+10.1016/j.chroma.2025.466262,Bioresmethrin,Coumarin || Thymol || 01:02,True,2.671653333333338,15.88333333333333,3.666666666666667,1
+10.1016/j.chroma.2025.466262,Cis-permethrin,Coumarin || Thymol || 01:02,True,3.632953333333336,11.973333333333333,3.666666666666667,1
+10.1016/j.chroma.2025.466262,Cyfluthrin,Coumarin || Thymol || 01:02,True,3.836733333333336,35.763333333333335,4.666666666666667,1
+10.1016/j.chroma.2025.466262,Cypermethrin,Coumarin || Thymol || 01:02,True,3.697633333333336,35.763333333333335,4.666666666666667,1
+10.1016/j.chroma.2025.466262,Deltamethrin,Coumarin || Thymol || 01:02,True,4.0098333333333365,35.763333333333335,4.666666666666667,1
+10.1016/j.chroma.2025.466262,Esfenvalerate,Coumarin || Thymol || 01:02,True,4.199633333333338,35.763333333333335,4.666666666666667,1
+10.1016/j.chroma.2025.466262,Etofenprox,Coumarin || Thymol || 01:02,True,3.8916533333333385,4.133333333333333,3.666666666666667,1
+10.1016/j.chroma.2025.466262,Fenpropathrin,Coumarin || Thymol || 01:02,True,2.788633333333337,35.763333333333335,4.666666666666667,1
+10.1016/j.chroma.2025.466262,Fenvalerate,Coumarin || Thymol || 01:02,True,4.199633333333338,35.763333333333335,4.666666666666667,1
+10.1016/j.chroma.2025.466262,Flucythrinate,Coumarin || Thymol || 01:02,True,4.147633333333338,44.993333333333325,5.666666666666666,1
+10.1016/j.chroma.2025.466262,Fluvalinate,Coumarin || Thymol || 01:02,True,4.915333333333337,47.79333333333334,4.666666666666666,1
+10.1016/j.chroma.2025.466262,Lambda-cyhalothrin,Coumarin || Thymol || 01:02,True,4.063633333333336,35.763333333333335,4.666666666666667,1
+10.1016/j.chroma.2025.466262,Tefluthrin,Coumarin || Thymol || 01:02,True,3.0714733333333357,2.7433333333333323,2.666666666666667,1
+10.1016/j.chroma.2025.466262,Trans-permethrin,Coumarin || Thymol || 01:02,True,3.632953333333336,11.973333333333333,3.666666666666667,1
+10.1016/j.fluid.2017.04.002,Acetamiprid,DL-Menthol || Octanoic acid || 01:01,False,0.3692200000000003,23.515,3.0,1
+10.1016/j.fluid.2017.04.002,Acetamiprid,DL-Menthol || Dodecanoic acid || 02:01,True,0.8906866666666677,26.360000000000003,3.0,2
+10.1016/j.fluid.2017.04.002,Imidacloprid,DL-Menthol || Octanoic acid || 01:01,True,1.7476000000000007,54.895,2.0,1
+10.1016/j.fluid.2017.04.002,Imidacloprid,DL-Menthol || Decanoic acid || 01:01,False,2.137700000000001,54.895,2.0,2
+10.1016/j.fluid.2017.04.002,Nitenpyram,DL-Menthol || Octanoic acid || 01:01,True,0.5836000000000003,42.535,4.0,1
+10.1016/j.fluid.2017.04.002,Thiamethoxam,DL-Menthol || Octanoic acid || 01:01,True,1.4123,55.335,5.0,1
+10.1016/j.jfca.2017.12.007,Bromopropylate,Choline chloride || p-chlorophenol || 01:02,True,4.13906666666667,26.3,2.0,1
+10.1016/j.jfca.2017.12.007,Diazinon,Choline chloride || p-chlorophenol || 01:02,True,3.324686666666668,33.239999999999995,6.0,1
+10.1016/j.jfca.2017.12.007,Diazinon,Choline chloride || p-chlorophenol || 01:02,False,3.324686666666668,33.239999999999995,6.0,2
+10.1016/j.jfca.2017.12.007,Diazinon,Choline chloride || p-chlorophenol || 01:02,False,3.324686666666668,33.239999999999995,6.0,3
+10.1016/j.jfca.2017.12.007,Fenazaquin,Choline chloride || p-chlorophenol || 01:02,True,4.288766666666669,14.780000000000005,3.0,1
+10.1016/j.jfca.2017.12.007,Metalaxyl,Choline chloride || p-chlorophenol || 01:02,True,1.584306666666665,35.61,4.0,1
+10.1016/j.jfca.2017.12.007,Oxadiazon,Choline chloride || p-chlorophenol || 01:02,True,3.956966666666669,37.03,4.0,1
+10.1016/j.jfca.2025.108039,Aldrin,L-menthol || Octanoic acid || 01:01,True,2.8347000000000007,28.765,2.0,1
+10.1016/j.jfca.2025.108039,Bifenthrin,L-menthol || Octanoic acid || 01:01,True,4.226920000000004,2.465,2.0,1
+10.1016/j.jfca.2025.108039,Chloroneb,L-menthol || Octanoic acid || 01:01,True,0.5751000000000017,10.305,2.0,1
+10.1016/j.jfca.2025.108039,Deltamethrin,L-menthol || Octanoic acid || 01:01,True,4.054680000000004,30.555000000000007,4.0,1
+10.1016/j.jfca.2025.108039,Dieldrin,L-menthol || Octanoic acid || 01:01,True,2.0459000000000014,16.235,1.0,1
+10.1016/j.jfca.2025.108039,Heptachlor,L-menthol || Octanoic acid || 01:01,True,2.806,28.765,2.0,1
+10.1016/j.jfca.2025.108039,Hexachlorobenzene,L-menthol || Octanoic acid || 01:01,True,3.171499999999999,28.765,2.0,1
+10.1016/j.jfca.2025.108039,Pentachlorobenzene,L-menthol || Octanoic acid || 01:01,True,2.5181,28.765,2.0,1
+10.1016/j.jfca.2025.108039,Tefluthrin,L-menthol || Octanoic acid || 01:01,True,3.116320000000002,2.465,2.0,1
+10.1016/j.jfca.2025.108039,alpha-BHC,L-menthol || Octanoic acid || 01:01,True,1.2089000000000008,28.765,2.0,1
+10.1016/j.jfca.2025.108039,"p,p'-DDT",L-menthol || Octanoic acid || 01:01,True,4.0600000000000005,28.765,2.0,1
+10.1016/j.jpba.2019.01.018,Diniconazole,Choline chloride || Phenol || 01:04,True,3.5384600000000037,30.71,2.0,1
+10.1016/j.jpba.2019.01.018,Fipronil,Choline chloride || Phenol || 01:04,True,3.82764,64.47,3.0,1
+10.1016/j.jpba.2019.01.018,Hexaconazole,Choline chloride || Phenol || 01:04,True,3.2113600000000035,30.71,2.0,1
+10.1016/j.jpba.2019.01.018,Tebuconazole,Choline chloride || Phenol || 01:04,True,2.889960000000002,30.71,2.0,1
+10.1016/j.jpba.2019.01.018,Triadimenol,Choline chloride || Phenol || 01:04,True,2.4645600000000014,39.94,3.0,1
+10.1016/j.microc.2022.107226,Alachlor,Thymol || Myristyl alcohol || 02:01,True,0.4555133333333341,9.31,2.0,1
+10.1016/j.microc.2022.107226,Aldrin,Thymol || Myristyl alcohol || 02:01,True,1.8275866666666647,20.23,2.0,1
+10.1016/j.microc.2022.107226,Bromophos methyl,Thymol || Myristyl alcohol || 02:01,True,1.2093866666666662,7.460000000000001,4.0,1
+10.1016/j.microc.2022.107226,Bromopropylate,Thymol || Myristyl alcohol || 02:01,True,0.9564866666666684,26.3,2.0,1
+10.1016/j.microc.2022.107226,Diazinon,Thymol || Myristyl alcohol || 02:01,True,0.1421066666666668,33.239999999999995,6.0,1
+10.1016/j.microc.2022.107226,Dieldrin,Thymol || Myristyl alcohol || 02:01,True,1.038786666666666,7.700000000000001,1.0,1
+10.1016/j.microc.2022.107226,Endosulfan sulfate,Thymol || Myristyl alcohol || 02:01,True,0.0867133333333347,32.370000000000005,4.0,1
+10.1016/j.microc.2022.107226,Endrin,Thymol || Myristyl alcohol || 02:01,True,1.038786666666666,7.700000000000001,1.0,1
+10.1016/j.microc.2022.107226,Fenpropathrin,Thymol || Myristyl alcohol || 02:01,True,1.8263666666666687,39.09,4.0,1
+10.1016/j.microc.2022.107226,Fenvalerate,Thymol || Myristyl alcohol || 02:01,True,3.23736666666667,39.09,4.0,1
+10.1016/j.microc.2022.107226,Heptachlor epoxide,Thymol || Myristyl alcohol || 02:01,True,1.0100866666666652,7.700000000000001,1.0,1
+10.1016/j.microc.2022.107226,Hexaconazole,Thymol || Myristyl alcohol || 02:01,True,0.2202866666666678,30.71,2.0,1
+10.1016/j.microc.2022.107226,Lindane,Thymol || Myristyl alcohol || 02:01,True,0.2017866666666652,20.23,2.0,1
+10.1016/j.microc.2022.107226,Tetradifon,Thymol || Myristyl alcohol || 02:01,True,1.6903866666666651,13.91,2.0,1
+10.1016/j.microc.2022.107226,alpha-Endosulfan,Thymol || Myristyl alcohol || 02:01,True,0.2471866666666651,15.3,3.0,1
+10.1016/j.microc.2022.107226,beta-Endosulfan,Thymol || Myristyl alcohol || 02:01,True,0.2471866666666651,15.3,3.0,1
+10.1016/j.microc.2024.109955,Bromopropylate,Betaine || Propylene glycol || 01:04,True,5.223000000000004,6.136000000000003,2.4,1
+10.1016/j.microc.2024.109955,Buprofezin,Betaine || Propylene glycol || 01:04,True,5.006100000000004,4.484000000000002,3.4,1
+10.1016/j.microc.2024.109955,Cadusafos,Betaine || Propylene glycol || 01:04,True,6.018300000000004,14.093999999999998,4.4,1
+10.1016/j.microc.2024.109955,Chlorpyrifos,Betaine || Propylene glycol || 01:04,True,5.5420000000000025,0.1859999999999999,5.4,1
+10.1016/j.microc.2024.109955,Chlorpyrifos-methyl,Betaine || Propylene glycol || 01:04,True,4.761800000000002,0.1859999999999999,5.4,1
+10.1016/j.microc.2024.109955,Diazinon,Betaine || Propylene glycol || 01:04,True,4.408620000000003,13.076,6.4,1
+10.1016/j.microc.2024.109955,Fenpropathrin,Betaine || Propylene glycol || 01:04,True,6.0928800000000045,18.92600000000001,4.4,1
+10.1016/j.microc.2024.109955,Fonofos,Betaine || Propylene glycol || 01:04,True,4.968500000000003,31.164,3.4,1
+10.1016/j.microc.2024.109955,Oxadiazon,Betaine || Propylene glycol || 01:04,True,5.040900000000004,16.866000000000007,4.4,1
+10.1016/j.microc.2024.109955,Pendimethalin,Betaine || Propylene glycol || 01:04,True,4.544240000000003,57.916,4.4,1
+10.1016/j.microc.2024.109955,Pirimiphos-ethyl,Betaine || Propylene glycol || 01:04,True,4.131420000000002,16.31600000000001,7.4,1
+10.1016/j.microc.2024.109955,Pirimiphos-methyl,Betaine || Propylene glycol || 01:04,True,3.35122,16.31600000000001,7.4,1
+10.1016/j.microc.2024.109955,Pyridaben,Betaine || Propylene glycol || 01:04,True,6.065400000000005,5.503999999999998,3.4,1
+10.1016/j.microc.2024.109955,Tebufenpyrad,Betaine || Propylene glycol || 01:04,True,4.687300000000003,6.526000000000003,1.4,1
+10.1016/j.microc.2024.109955,Tolclofos-methyl,Betaine || Propylene glycol || 01:04,True,5.021820000000002,12.703999999999995,4.4,1
+10.1016/j.microc.2025.113881,Aldrin,Choline chloride || p-chlorophenol || 01:02,True,5.010166666666667,20.23,2.0,1
+10.1016/j.microc.2025.113881,DDE,Choline chloride || p-chlorophenol || 01:02,True,5.927866666666667,20.23,2.0,1
+10.1016/j.microc.2025.113881,DDT,Choline chloride || p-chlorophenol || 01:02,True,6.235466666666666,20.23,2.0,1
+10.1016/j.microc.2025.113881,Dieldrin,Choline chloride || p-chlorophenol || 01:02,True,4.2213666666666665,7.700000000000001,1.0,1
+10.1016/j.microc.2025.113881,Endosulfan,Choline chloride || p-chlorophenol || 01:02,True,3.429766666666666,15.3,3.0,1
+10.1016/j.seppur.2024.128637,Atrazine,Choline chloride || Methacrylic acid || 01:03,False,2.119549999999999,29.697500000000005,5.0,1
+10.1016/j.seppur.2024.128637,Atrazine,Choline chloride || Methacrylic acid || 01:02,True,2.449399999999999,31.120000000000005,5.0,2
+10.1016/j.seppur.2024.128637,Atrazine,Choline chloride || Methacrylic acid || 01:01.5,False,2.713279999999999,32.25800000000001,5.0,3
+10.1016/j.seppur.2024.128637,Atrazine,Choline chloride || Methacrylic acid || 01:01,False,3.1090999999999984,33.965,5.0,4
+10.1016/j.talanta.2023.124831,Parathion,Tetrabutylammonium bromide || Undecanol || 01:01,False,0.512550000000001,60.715,6.0,1
+10.1016/j.talanta.2023.124831,Parathion,Tetrabutylammonium bromide || Terpineol || 01:03,False,0.8914250000000017,55.6575,6.0,2
+10.1016/j.talanta.2023.124831,Parathion,Tetrabutylammonium bromide || Citronellol || 01:01,False,0.8916500000000012,60.715,6.0,3
+10.1016/j.talanta.2023.124831,Parathion,Tetrabutylammonium bromide || Geraniol || 01:01,False,0.9316000000000012,60.715,6.0,4
+10.1016/j.talanta.2023.124831,Parathion,Tetrabutylammonium bromide || Linalool || 01:01,False,0.9324000000000012,60.715,6.0,5
+10.1016/j.talanta.2023.124831,Parathion,Tetrabutylammonium bromide || Terpineol || 01:02,False,0.932766666666668,57.34333333333333,6.0,6
+10.1016/j.talanta.2023.124831,Parathion,Tetrabutylammonium bromide || Terpineol || 01:01,True,1.0154500000000013,60.715,6.0,7
+10.1016/j.talanta.2023.124831,Parathion,Tetrabutylammonium bromide || Menthol || 01:01,False,1.0475500000000015,60.715,6.0,8
+10.1016/j.talanta.2023.124831,Parathion,Tetrabutylammonium bromide || Terpineol || 02:01,False,1.098133333333335,64.08666666666666,6.0,9
+10.1016/j.talanta.2023.124831,Parathion,Tetrabutylammonium bromide || Terpineol || 03:01,False,1.1394750000000011,65.7725,6.0,10
+10.1016/j.talanta.2023.124831,Parathion,Tetrabutylammonium bromide || Terpineol || 04:01,False,1.1642800000000015,66.78399999999999,6.0,11
+10.1016/j.talanta.2023.124831,Parathion,Tetrabutylammonium bromide || Terpineol || 05:01,False,1.1808166666666682,67.45833333333333,6.0,12
+10.1016/j.talanta.2023.124831,Parathion,Choline chloride || Butylene glycol || 01:03,False,4.286675000000002,35.4275,6.0,13
+10.1016/j.talanta.2023.124831,Parathion,Choline chloride || Propylene glycol || 01:06,False,4.293114285714288,33.26,6.0,14
+10.1016/j.talanta.2023.124831,Parathion,Choline chloride || Propylene glycol || 01:05,False,4.356700000000002,33.74166666666667,6.0,15
+10.1016/j.talanta.2023.124831,Parathion,Choline chloride || Propylene glycol || 01:04,False,4.4457200000000014,34.416,6.0,16
+10.1016/j.talanta.2023.124831,Parathion,Choline chloride || Propylene glycol || 01:03,True,4.579250000000002,35.4275,6.0,17
+10.1016/j.talanta.2023.124831,Parathion,Choline chloride || Propylene glycol || 01:02,False,4.801800000000002,37.11333333333333,6.0,18
+10.1016/j.talanta.2023.124831,Parathion,Choline chloride || Ethylene glycol || 01:03,False,4.870625000000002,35.4275,6.0,19
+10.1016/j.talanta.2023.124831,Parathion,Choline chloride || Propylene glycol || 01:01,False,5.246900000000001,40.485,6.0,20
+10.1016/j.talanta.2023.124831,Parathion,Choline chloride || Propylene glycol || 02:01,False,5.692,43.85666666666667,6.0,21
+10.1021/acssuschemeng.4c03110,Difenoconazole,Terpineol || Decanoic acid || 01:01,True,1.807800000000002,29.635000000000005,5.0,1
+10.1021/acssuschemeng.4c03110,Hexaconazole,Terpineol || Decanoic acid || 01:01,True,0.8052000000000024,22.175,2.0,1
+10.1021/acssuschemeng.4c03110,Myclobutanil,Terpineol || Decanoic acid || 01:01,True,0.7255800000000017,25.735,3.0,1
+10.1021/acssuschemeng.4c03110,Propiconazole,Terpineol || Decanoic acid || 01:01,True,0.7957000000000019,20.405,4.0,1
+10.1021/acssuschemeng.4c03110,Tebuconazole,Terpineol || Decanoic acid || 01:01,True,0.4838000000000009,22.175,2.0,1
+10.1021/acssuschemeng.4c03110,Triadimefon,Decyl alcohol || Decanoic acid || 01:01,False,0.0412499999999997,28.245000000000005,4.0,1
+10.1021/acssuschemeng.4c03110,Triadimefon,Menthol || Lauric acid || 01:01,False,0.0913999999999997,28.245000000000005,4.0,2
+10.1021/acssuschemeng.4c03110,Triadimefon,Terpineol || Lauric acid || 01:01,True,0.1234999999999999,28.245000000000005,4.0,3
+10.1021/acssuschemeng.4c03110,Triadimefon,Terpineol || Decanoic acid || 01:01,False,0.2666000000000004,28.245000000000005,4.0,4
+10.1021/acssuschemeng.4c03110,Triadimefon,Menthol || Decanoic acid || 01:01,False,0.2987000000000006,28.245000000000005,4.0,5
+10.1021/acssuschemeng.4c03110,Triadimefon,Octanol || Decanoic acid || 01:01,False,0.3488500000000005,28.245000000000005,4.0,6
+10.1021/acssuschemeng.4c03110,Triadimefon,Terpineol || Decanoic acid || 02:01,False,0.3846000000000007,31.090000000000007,4.0,7
+10.1021/acssuschemeng.4c03110,Triadimefon,Terpineol || Decanoic acid || 03:01,False,0.4436000000000009,32.5125,4.0,8
+10.1080/03601234.2025.2605875,Chlorpyrifos,Menthol || Lauryl alcohol || 01:01,True,1.5485500000000003,20.35,5.0,1
+10.1080/03601234.2025.2605875,Triazophos,Menthol || Lauryl alcohol || 01:01,True,0.2259500000000001,38.17,6.0,1
+10.3390/biology13060438,Tea Saponin,Choline Chloride || Glycerol || 01:02,False,1.8535333333333248,374.8466666666668,37.333333333333336,1
+10.3390/biology13060438,Tea Saponin,Choline Chloride || Glycerol || 01:03,False,1.9904499999999907,371.4750000000001,37.0,2
+10.3390/biology13060438,Tea Saponin,Choline Chloride || Ethylene Glycol || 01:02,False,2.2795999999999914,388.33333333333337,38.66666666666666,3
+10.3390/biology13060438,Tea Saponin,Choline Chloride || Urea || 01:02,False,2.314799999999991,369.2333333333334,39.33333333333333,4
+10.3390/biology13060438,Tea Saponin,Betaine || Glycerol || 01:03,False,2.428849999999991,366.50000000000006,37.0,5
+10.3390/biology13060438,Tea Saponin,Betaine || Glycerol || 01:02,False,2.438066666666657,368.2133333333334,37.333333333333336,6
+10.3390/biology13060438,Tea Saponin,Choline Chloride || Ethylene Glycol || 01:03,False,2.469774999999991,386.6475000000001,38.5,7
+10.3390/biology13060438,Tea Saponin,Choline Chloride || Urea || 01:03,False,2.509374999999991,365.1600000000001,39.25,8
+10.3390/biology13060438,Tea Saponin,Betaine || Ethylene Glycol || 01:02,False,2.8641333333333243,381.7000000000001,38.66666666666667,9
+10.3390/biology13060438,Tea Saponin,Betaine || Ethylene Glycol || 01:03,True,2.908174999999991,381.67250000000007,38.5,10
