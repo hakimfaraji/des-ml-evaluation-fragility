@@ -1,7 +1,0 @@
-scope,n_groups,model,Hit@1,Hit@1_CI_low_Wilson,Hit@1_CI_high_Wilson,MRR,MRR_CI_low_bootstrap,MRR_CI_high_bootstrap
-all_groups,119,Baseline,0.983,0.958,1.0,0.987,0.9657,1.0
-all_groups,119,Hybrid,0.975,0.9412,1.0,0.98,0.9544,1.0
-comparable_ge_2,8,Baseline,0.75,0.375,1.0,0.802,0.5208,1.0
-comparable_ge_2,8,Hybrid,0.625,0.25,1.0,0.702,0.428,1.0
-comparable_ge_3,6,Baseline,0.667,0.3292,1.0,0.736,0.4224,1.0
-comparable_ge_3,6,Hybrid,0.5,0.1667,0.8333,0.603,0.2857,0.8889
