@@ -1,2 +1,0 @@
-n_train_rows,n_test_rows,n_train_dois,n_test_dois,overlap_dois_count,positive_rate_train,positive_rate_test,random_state,holdout_test_size
-592,165,75,19,0,0.902027027027027,0.7272727272727273,42,0.2
