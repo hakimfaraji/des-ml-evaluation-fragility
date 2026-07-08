@@ -1,3 +1,0 @@
-bidirectional_augmentation_used: True
-total_directional_pairs: 74
-estimated_unique_unordered_pairs: 37.0
