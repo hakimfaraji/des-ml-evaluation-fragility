@@ -1,4 +1,0 @@
-n_rows: 757
-n_columns: 104
-input_dataset: stage3_modeling_table_with_descriptors_phase1.csv
-used_for: split-first leakage-clean rebuild pipeline
