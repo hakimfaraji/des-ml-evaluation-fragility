@@ -1,6 +1,0 @@
-alternative_formulation,definition,potential_advantage,main_limitation_in_this_dataset,decision
-Current group-relative is_optimal,"Best observed DES within each (DOI, analyte) group",Matches study-specific recommendation structure recoverable from literature,Conditional on candidate set and reported context,Used as primary target
-Top-k labeling,Label top k candidates within each group as positive,May reduce label sparsity in groups with several similar candidates,Many groups have one candidate or one dominant optimum; may create trivial positives in small groups,"Discussed, not used"
-Recovery-threshold labeling,Label systems within a fixed recovery margin of the best as positive,Allows near-optimal systems to be treated as acceptable,Requires comparable recovery values across standardized conditions; difficult across heterogeneous studies,"Discussed, not used"
-Direct recovery regression,Predict recovery as continuous outcome,Uses more information than binary labels,"Recovery depends on matrix, pH, water content, extraction time, temperature, and other metadata not consistently available",Different task; not used
-Pairwise ΔRecovery labeling,Define pairwise preferences from recovery differences,Closely aligned with ranking,Requires sufficient within-group comparisons and reliable recovery differences; too few informative groups,"Discussed, not used"
